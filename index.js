@@ -1,1 +1,2 @@
-console.log("Hello I am in git")
+console.log("I am now a change")
+console.log("another change")
